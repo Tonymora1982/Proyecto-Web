@@ -6,7 +6,7 @@ body {
 }
 
 .formLogin{
-    font-size: 24px white;
+    font-size: 24px;
     background: rgba(0,0,0,.4);
     padding: 20px;
     border-radius: 10px;
@@ -47,13 +47,11 @@ box-shadow:none;
 
 .olvide{
     color: white;
-    text-decoration-style: none;
-    text-decoration-line: none;
+    text-decoration: none;
 }
 .olvide:hover {
     color: blue;
-    text-decoration-style: none;
-    text-decoration-line: none;
+    text-decoration: none;
     cursor: pointer;
 }
 
@@ -62,15 +60,13 @@ box-shadow:none;
     font-size: 24px;
     color: white;
     font-weight: 700!important;
-    text-decoration-style: none;
-    text-decoration-line: none;
+    text-decoration: none;
     border: 1px solid white;
     padding: 10px;
     border-radius: 10px;
 }
 .registro:hover {
     color: white;
-    text-decoration-style: none;
-    text-decoration-line: none;
+    text-decoration: none;
     cursor: pointer;
 }
